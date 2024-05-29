@@ -2,7 +2,7 @@
 👋 My name is Cao Tuan Kiet <br>👀 I’m interested in coding, playing soccer, listening music,...<br>🌱 Now, I am studying Information Systems at the VNUHCM - University of Science.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kietcaoboy77) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ki%E1%BB%87t-cao-605694272/) 
 
 # 💻 Tech Stack:
